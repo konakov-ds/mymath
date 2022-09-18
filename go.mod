@@ -1,3 +1,3 @@
-module github.com/konakov-ds/mymath
+module mymath
 
 go 1.19
